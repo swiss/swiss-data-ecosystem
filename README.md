@@ -1,1 +1,1 @@
-# governance-architecture-guidelines
+# Datenökosystem Schweiz
