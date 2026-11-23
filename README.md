@@ -6,7 +6,9 @@
     * [What is meant by data ecosystem?](#what-is-meant-by-data-ecosystem)
     * [What is a data space?](#what-is-a-data-space)
     * [What is the difference between a data ecosystem and a data space?](#what-is-the-difference-between-a-data-ecosystem-and-a-data-space)
+    <!--
     * [What is the difference between a data hub and a data space?](#what-is-the-difference-between-a-data-hub-and-a-data-space)
+    -->
     * [What is a data product?](#what-is-a-data-product)
 * [**Purpose and Added Value**](#topic-purpose-and-added-value)
     * [Is a data space merely a data catalogue or a consent management system?](#is-a-data-space-merely-a-data-catalogue-or-a-consent-management-system)
