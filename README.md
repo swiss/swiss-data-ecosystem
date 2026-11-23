@@ -1,5 +1,4 @@
 # FAQ Swiss Data Ecosystem
-Short Answers
 
 ## Table of Contents
 
