@@ -161,7 +161,7 @@ Source: Governance DOeS V0.5; Governance-Leitfaden Datenraum V1.0
 
 <details>
 <summary>Extended Answer</summary>
-The contact point offers conceptual support for the establishment and further development of data spaces, assists with the organisation of data space governance bodies, and helps to resolve conflicts between participants or data spaces. It publishes a mission statement, a glossary, the ‘Governance of the Swiss Data Ecosystem’ document, as well as governance and architecture guidelines containing recommendations for action, checklists and templates, and ensures communication and the exchange of knowledge within the data ecosystem. Initiatives can contact it at dataspaces@bk.admin.ch and share their experiences.</details>
+The contact point offers conceptual support for the establishment and further development of data spaces, assists with the organisation of data space governance bodies, and helps to resolve conflicts between participants or data spaces. It publishes a mission statement, a glossary, the ‘Governance of the Swiss Data Ecosystem’ document, as well as governance and architecture guidelines containing recommendations for action, checklists and templates, and ensures communication and the exchange of knowledge within the data ecosystem. Initiatives can contact it at <a href="mailto:dataspaces@bk.admin.ch">dataspaces@bk.admin.ch</a> and share their experiences.</details>
 
 ---
 
