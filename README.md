@@ -35,7 +35,7 @@
 
 The Swiss Data Ecosystem is a national network for the exchange and multi-use of data. It connects data repositories, data platforms and services from public administration, business, research and civil society. Common rules and a shared public infrastructure ensure that data exchange is trustworthy and interoperable.
 
-Source: Glossar DOeS V0.9, ch. 2.2; Leitbild DOeS V0.96, Management Summary
+Source: Glossar DOeS V1.0; Leitbild DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -46,7 +46,7 @@ The Swiss Data Ecosystem (DOeS) is a national network, orchestrated through a go
 
 A data space is a technical and organisational structure, based on common governance and a decentralised setup, that enables and regulates trusted data transactions between different sources and actors. Data spaces are often sector-specific, defined by a purpose, clear rules and standards, and organised by a data space governance authority (Datenraumträgerschaft). Examples are the Swiss Health Data Space (SHDS), MODI (mobility) and agridata.ch (agriculture).
 
-Source: Glossar DOeS V0.9, ch. 2.3; Leitbild DOeS V0.96, ch. 3.5
+Source: Glossar DOeS V1.0; Leitbild DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -57,30 +57,18 @@ A data space is a technical and organisational structure based on shared governa
 
 The data ecosystem is the overall national framework, and a data space is one building block within it. Besides data spaces, the ecosystem also includes other data sharing platforms (e.g. OGD platforms, data hubs, bilateral solutions), domain-specific services and common public infrastructure, all of which must meet the ecosystem’s minimum requirements. A data space additionally follows the data space guiding principles, such as a neutral governance authority, decentralised data storage and consent management.
 
-Source: Leitbild DOeS V0.96, ch. 3, 3.5, 3.7, 6.2; Glossar DOeS V0.9, ch. 2.2–2.5
+Source: Leitbild DOeS V1.0; Glossar DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
 The Swiss data ecosystem is an overarching coordination framework and not an additional, standalone data infrastructure. Through its vision, regulation, core characteristics and minimum requirements, it creates a common framework for data spaces, other data exchange platforms, support and value-added services, as well as the shared public infrastructure. data spaces are one such component: they constitute core infrastructures within the data ecosystem and facilitate and regulate trustworthy data exchange, usually for a specific sector or region.
 </details>
 
-<!--
-### What is the difference between a data hub and a data space?
-
-In a data hub, data is centralised under one authority and shared one-to-many, which suits a few stable parties, large bulk transfers and near-real-time needs. In a data space, data stays with the provider, sharing is many-to-many with dynamic membership, and providers keep control through fine-grained access and usage policies. The Architecture Guidelines include a decision helper for choosing between a data space, a data hub and a point-to-point connection.
-
-Source: Architecture Guidelines for Data Spaces V0.9, ch. 1.7 (Table 3)
-
-<details>
-<summary>Extended Answer</summary>
-</details>
--->
-
 ### What is a data product?
 
 A data product is a unit for sharing data that comprises the data, its metadata and all associated access and usage conditions, including licence terms. Unlike a plain dataset, it also has explicit semantics, defined quality, documented lineage, a clear owner responsible for its lifecycle, and is provided via defined interfaces. A data product does not necessarily imply commercial aspects.
 
-Source: Glossar DOeS V0.9, ch. 5.3–5.4
+Source: Glossar DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -95,7 +83,7 @@ A data product is a unit for the shared use of data, comprising data and metadat
 
 No. The catalogue and consent management are just two components of a data space. These are complemented by identities and trust, data products, the actual data exchange with its rules of use, and monitoring. Furthermore, a data space requires common rules and a responsible governing body.
 
-Source: Architecture Guidelines for Data Spaces V0.9, ch. 2.5, 4.2 (Table 18); Leitbild DOeS V0.96, ch. 4
+Source: Architecture Guidelines for Data Spaces V1.0; Leitbild DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -106,7 +94,7 @@ No. A data space comprises five operational capabilities: identity and access ma
 
 There are many solutions, but they are often not necessarily interoperable. The guidelines define common rules and building blocks. This ensures that data spaces remain compatible and trustworthy. They do not prescribe any specific product or technology – each data space selects its own technology within this framework.
 
-Source: Architecture Guidelines for Data Spaces V0.9, ch. 1.6, 3; Leitbild DOeS V0.96, ch. 1.3; Glossar DOeS V0.9, ch. 7
+Source: Architecture Guidelines for Data Spaces V1.0; Leitbild DOeS V1.0; Glossar DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -117,7 +105,7 @@ Today’s data exchange landscape in Switzerland is characterised by fragmented,
 
 Yes, if only a few partners exchange data within a fixed framework. Bilateral connections form part of the ecosystem as long as they meet the minimum requirements. Where there are many and changing partners, a data space is preferable. Shared rules and trust mechanisms then replace numerous individual agreements.
 
-Source: Leitbild DOeS V0.96, ch. 3.7; Architecture Guidelines for Data Spaces V0.9, ch. 1.7, 3.1 (“Trust over simplicity”)
+Source: Leitbild DOeS V1.0; Architecture Guidelines for Data Spaces V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -132,7 +120,7 @@ Direct data exchange solutions that enable ad hoc, often bilateral, data flows b
 
 Everyone who shares or uses data in Switzerland: public authorities, businesses, research organisations and civil society organisations. The public is indirectly involved. They retain control over their own data and benefit from improved services. Within a data space, organisations can act as providers, users, operators or sponsors.
 
-Source: Leitbild DOeS V0.96, ch. 1.2, 7; Governance DOeS V0.4, ch. 1.6; Glossar DOeS V0.9, ch. 3
+Source: Leitbild DOeS V1.0; Governance DOeS V0.5; Glossar DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -143,7 +131,7 @@ The Swiss data ecosystem is designed as an inclusive network and is aimed at all
 
 Responsibility is distributed across three levels: the federal government sets the framework, the ecosystem’s governing bodies establish common rules, and each data space operates independently. The sponsoring body of a data space is responsible for its funding. A mix of membership fees, usage fees and public funding is recommended.
 
-Source: Governance DOeS V0.4, ch. 3.1; Governance-Leitfaden Datenraum V0.9, ch. 3.1, 5.3; Leitbild DOeS V0.96, ch. 4.1
+Source: Governance DOeS V0.5; Governance-Leitfaden Datenraum V1.0; Leitbild DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -153,7 +141,7 @@ In accordance with the principle of subsidiarity, governance is structured acros
 
 The contact point is the central point of contact and coordination for the Swiss data ecosystem. It provides tools and guidelines, promotes interoperability and supports data space initiatives. It does not operate data spaces itself – this remains the responsibility of the respective data space.
 
-Source: Governance DOeS V0.4, ch. 4, 4.1; Leitbild DOeS V0.96, ch. 2
+Source: Governance DOeS V0.5; Leitbild DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -163,7 +151,7 @@ Source: Governance DOeS V0.4, ch. 4, 4.1; Leitbild DOeS V0.96, ch. 2
 
 The contact point assists you in setting up your data space by providing advice, guides, checklists and templates. It connects you with other initiatives and supports you in the event of conflicts. You can contact the helpdesk at dataspaces@bk.admin.ch.
 
-Source: Governance DOeS V0.4, ch. 4.1; Governance-Leitfaden Datenraum V0.9, ch. 1.1; Roadmap & Organisation, slide 2
+Source: Governance DOeS V0.5; Governance-Leitfaden Datenraum V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -177,7 +165,7 @@ The contact point offers conceptual support for the establishment and further de
 
 All three. The Architecture Vision 2050 and the Mission Statement set out the long-term direction. The Architecture Guide provides practical recommendations for setting up data spaces today – starting small and growing step by step. It is updated regularly.
 
-Source: Architecture Guidelines for Data Spaces V0.9, ch. 1.2; Roadmap & Organisation, slide 6; Leitbild DOeS V0.96, ch. 6.1 (Note: answer derived, not stated explicitly)
+Source: Architecture Guidelines for Data Spaces V1.0; Leitbild DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -188,7 +176,7 @@ The mission statement describes Switzerland’s future data ecosystem and bases 
 
 These frameworks are important foundations, and the Swiss guidelines build upon them. However, they cannot simply be adopted as they stand: Swiss law and sector-specific regulations take precedence, and the minimum requirements of the DOeS must be met. Use them within the guidelines to create your own data space’s reference architecture.
 
-Source: Governance-Leitfaden Datenraum V0.9, ch. 2.3; Architecture Guidelines for Data Spaces V0.9, ch. 1.4; Architecture Guidelines Attachment 1 (Mappings), ch. 2
+Source: Governance-Leitfaden Datenraum V1.0; Architecture Guidelines for Data Spaces V1.0; Architecture Guidelines Mappings Attachment 
 
 <details>
 <summary>Extended Answer</summary>
@@ -203,7 +191,7 @@ The DOeS documents are based on the DSSC Blueprint 3.0, IDSA and Gaia-X. However
 
 The former Reference Architecture 2025 has been split across several documents. Operational topics are covered in the Architecture Guide, whilst organisational topics are covered in the Governance Guide. The Mission Statement and the Governance Paper provide an overview of the whole picture. An appendix shows where the former elements can now be found.
 
-Source: Architecture Guidelines for Data Spaces V0.9, ch. 1.4; Leitbild DOeS V0.96, ch. 2.4; Architecture Guidelines Attachment 1 (Mappings), ch. 4; Glossar DOeS V0.9, ch. 3.2
+Source: Architecture Guidelines for Data Spaces V1.0; Leitbild DOeS V1.0; Architecture Guidelines Mapping Attachment Mappings; Glossar DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
@@ -213,7 +201,8 @@ The 2025 Reference Architecture has been superseded by the data space Architectu
 ## How binding are the documents?
 
 Most documents are currently recommendations rather than obligations. The mission statement provides guidance; the glossary and governance paper are strongly recommended; and the guidelines offer best practices. Binding minimum requirements are planned for the future. A data space’s own rules are binding on its participants.
-Source: Governance-Leitfaden Datenraum V0.9, ch. 1.2; Governance DOeS V0.4, ch. 1.1; Roadmap & Organisation, slide 
+
+Source: Governance-Leitfaden Datenraum V1.0; Governance DOeS V1.0 
 
 <details>
 <summary>Extended Answer</summary>
@@ -224,7 +213,7 @@ The binding nature varies by document: the Mission Statement serves as a guide f
 
 Decision-makers: Start with the mission statement and the governance paper. Anyone setting up or operating a data space: Use the Governance Guide. Architects and technical teams: Use the Architecture Guide. The glossary is useful for everyone.
 
-Source: “At a glance” sections of Leitbild DOeS V0.96, Glossar DOeS V0.9, Governance DOeS V0.4, Governance-Leitfaden Datenraum V0.9 and Architecture Guidelines V0.9
+Source: Leitbild DOeS V1.0; Glossar DOeS V1.0; Governance DOeS V0.5; Governance-Leitfaden Datenraum V1.0; Architecture Guidelines V1.0
 
 <details>
 <summary>Extended Answer</summary>
