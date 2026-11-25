@@ -22,8 +22,8 @@ Do you have more questions? Contact us dataspaces@bk.admin.ch.
 * [**Stakeholders, Roles and Responsibilities**](#topic-stakeholders-roles-and-responsibilities)
     * [Who are the stakeholders in the Swiss data ecosystem?](#who-are-the-stakeholders-in-the-swiss-data-ecosystem)
     * [Who is responsible, and how are costs shared?](#who-is-responsible-and-how-are-costs-shared)
-    * [What does the Anlaufstelle do in relation to data spaces?](#what-does-the-anlaufstelle-do-in-relation-to-data-spaces)
-    * [How can the Anlaufstelle support me?](#how-can-the-anlaufstelle-support-me)
+    * [What does the *Anlaufstelle* do in relation to data spaces?](#what-does-the-anlaufstelle-do-in-relation-to-data-spaces)
+    * [How can the *Anlaufstelle* support me?](#how-can-the-anlaufstelle-support-me)
 * [**Architecture and Standards**](#topic-architecture-and-standards)
     * [What is the time horizon of the target architecture: now, tomorrow, or 10 years' time?](#what-is-the-time-horizon-of-the-target-architecture-now-tomorrow-or-10-years-time)
     * [Can I just use DSSC, Gaia-X, IDSA, data mesh, or another standard as the reference architecture?](#can-i-just-use-dssc-gaia-x-idsa-data-mesh-or-another-standard-as-the-reference-architecture)
@@ -142,19 +142,20 @@ Source: Governance DOeS V0.5; Governance-Leitfaden Datenraum V1.0; Leitbild DOeS
 <summary>Extended Answer</summary>
 In accordance with the principle of subsidiarity, governance is structured across three levels: the federal government establishes the strategic and regulatory framework; the steering level sets out common rules and minimum requirements; and the sponsoring bodies or operating organisations are responsible for the operational governance and running of their data spaces. The data space sponsoring body is responsible for strategic management, compliance and funding, based on a business and operating model. The data space Governance Guide recommends a hybrid model comprising membership fees, usage charges and public funding, as well as an early transition from start-up funding to long-term self-financing.</details>
 
-### What does the Anlaufstelle do in relation to data spaces?
+### What does the *Anlaufstelle* do in relation to data spaces?
 
-The contact point is the central point of contact and coordination for the Swiss data ecosystem. It provides tools and guidelines, promotes interoperability and supports data space initiatives. It does not operate data spaces itself – this remains the responsibility of the respective data space.
+The contact point (*Anlaufstelle*) is the central point of contact and coordination for the Swiss data ecosystem. It provides tools and guidelines, promotes interoperability and supports data space initiatives. It does not operate data spaces itself – this remains the responsibility of the respective data space.
 
 Source: Governance DOeS V0.5; Leitbild DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
+The contact point is the central coordination and service centre for data spaces and other actors in the Swiss data ecosystem. Its tasks include developing tools, methods and models to promote the trustworthiness of data spaces, fostering interoperability, providing conceptual support for the establishment and further development of data spaces, and coordinating cooperation between public authorities, data spaces and other stakeholders. It supports the application and further development of shared governance without assuming operational responsibility from the individual operating organisations, and does not make any binding decisions regarding accreditation, sanctions or regulation, unless such powers are expressly delegated to it.
 </details>
 
-### How can the Anlaufstelle support me?
+### How can the *Anlaufstelle* support me?
 
-The contact point assists you in setting up your data space by providing advice, guides, checklists and templates. It connects you with other initiatives and supports you in the event of conflicts. You can contact the helpdesk at dataspaces@bk.admin.ch.
+The contact point (*Anlaufstelle*) assists you in setting up your data space by providing advice, guides, checklists and templates. It connects you with other initiatives and supports you in the event of conflicts. You can contact the helpdesk at dataspaces@bk.admin.ch.
 
 Source: Governance DOeS V0.5; Governance-Leitfaden Datenraum V1.0
 
