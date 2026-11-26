@@ -48,7 +48,7 @@ The Swiss Data Ecosystem (DOeS) is a national network, orchestrated through a go
 
 A data space is a technical and organisational structure, based on common governance and a decentralised setup, that enables and regulates trusted data transactions between different sources and actors. Data spaces are often sector-specific, defined by a purpose, clear rules and standards, and organised by a data space governance authority (Datenraumträgerschaft). Examples are the Swiss Health Data Space (SHDS), MODI (mobility) and agridata.ch (agriculture).
 
-Source :DOeS Guiding Framework V1.0; Glossary DOeS V1.0
+Source: DOeS Guiding Framework V1.0; Glossary DOeS V1.0
 
 <details>
 <summary>Extended Answer</summary>
